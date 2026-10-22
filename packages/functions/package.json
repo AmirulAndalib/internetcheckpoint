@@ -12,12 +12,12 @@
   "devDependencies": {
     "@types/aws-lambda": "^8.10.115",
     "@types/node": "^20.2.5",
-    "vitest": "^0.31.4"
+    "vitest": "^5.0.5"
   },
   "dependencies": {
     "dayjs": "^1.11.8",
     "drizzle-kit": "^0.28.0",
-    "drizzle-orm": "^0.36.1",
+    "drizzle-orm": "^0.45.4",
     "firebase-admin": "^11.10.1",
     "node-fetch": "^3.3.2",
     "postgres": "^3.4.5"
